@@ -1,0 +1,5 @@
+Queremos fazer uma "receita" de como montar sua bicicleta, para divulgar nossa nova linha de peças da marca turbo power, não precisa ser nada muito complicado apenas a informação de quais são as principais partes para se montar uma bicicleta e onde vai cada coisa. 
+
+Se quiser fazer um infográfico para a montagem seria muito bom, mas uma receita convencial explicando um passo a passo já atende o que queremos. 
+
+Queremos uma cartilha com essa "receita" e também um hotsite explicativo com a "receita", não temos necessáriaente o foco em ambiente mobile, mas tem que existir para o usuário conseguir montar a sua pr´roía bike de maneira mais confortável.
