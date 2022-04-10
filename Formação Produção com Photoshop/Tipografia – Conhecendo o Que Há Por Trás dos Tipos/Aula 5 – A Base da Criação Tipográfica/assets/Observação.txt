@@ -1,0 +1,3 @@
+Ao abrir o documento aparecerá um aviso para você inserir as imagens usadas.
+
+Clique na opção replace (substituir se for em português), acesse a pasta imagens e insira a imagem do hamburguer e do sandwich.
